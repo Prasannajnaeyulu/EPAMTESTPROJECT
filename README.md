@@ -29,3 +29,8 @@ Launch index.html file from the above directory for the results to view in html.
 
 3. Screenshots can be found under Screenshots folder
    say, c:\EPAMTESTPROJECT\Screenshots
+
+4. Please use Firefox browser 40.0 or below to run the tests
+5. If you wanna run via Chrome or InternetExplorer, Please download and copy respective driver exe files into c:\ drive.
+if you have these files in any other directory, please give that path in environment.properties file.
+
