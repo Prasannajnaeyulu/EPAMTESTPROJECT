@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="epamtestmantisbt"  preserve-order="true" parallel="false">
+  <test name="Mantisbt Regression Tests" preserve-order="true" parallel="false">
+    <classes>
+      <class name="com.epam.mantisbt.tests.MantisbtFilesTests"/>
+    </classes>
+  </test>
+</suite>
